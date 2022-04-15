@@ -1,0 +1,1 @@
+このフォルダ内に SEGMENTATION SDK 配布ファイルを投函します

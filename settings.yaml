@@ -1,0 +1,12 @@
+COLOR_B: 200
+COLOR_G: 200
+COLOR_R: 0
+DETECTION_MODEL: ./test_model.smartmore
+DETECTION_TEST_IMAGE: ./files/uploaded/for_detection_test.bmp
+FONT_SIZE: 100
+LINE_WIDTH: 15
+OCR_MODEL: ./models/ocr.smartmore
+OCR_TEST_IMAGE: ./files/uploaded/for_ocr_test.jpg
+SEGMENTATION_MODEL: ./models/segmentation.smartmore
+SEGMENTATION_TEST_IMAGE: ./files/uploaded/for_segmentation_test.bmp
+THRESHOLD: 0.7

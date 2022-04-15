@@ -6,6 +6,28 @@ __pycache__/
 # C extensions
 *.so
 
+# SDK core
+*.dll
+*.lib
+*.pyd
+
+# Image Files
+files/inferred/*.jpg
+files/uploaded/*.bmp
+files/uploaded/*.jpg
+
+# Model
+models/*.smartmore
+
+# Zip ファイル
+*.zip
+*.7z
+sdk/
+
+# 開発時の一時フォルダ
+fordev/
+doc/
+
 # Distribution / packaging
 .Python
 build/
