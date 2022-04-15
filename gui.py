@@ -105,7 +105,7 @@ def detect(event):
     global raw_im
     global tk_im
     s.read()
-    if not os.path.exists(s.settings['DETECT_MODEL']):
+    if not os.path.exists(s.settings['DETECTION_MODEL']):
         tkinter.messagebox.showinfo('失敗', '正しいAIモデルが選択されていません')
         return 'break'
     try:
